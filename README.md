@@ -1,3 +1,5 @@
+![Taumux Logo](https://github.com/avirsaha/taumux/blob/main/taumux-logo.png?raw=true)
+
 # Taumux
 
 **Taumux** is a custom tmux configuration designed to provide a dark, minimal color scheme and efficient plugins for a streamlined and productive terminal workflow. This project enhances your tmux experience by combining aesthetic simplicity with powerful functionality, making it ideal for developers and power users alike.
