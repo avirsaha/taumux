@@ -1,4 +1,4 @@
-![Taumux Logo](https://github.com/avirsaha/taumux/blob/main/taumux-logo.png?raw=true)
+![Taumux Logo](https://github.com/avirsaha/taumux/blob/main/taumux-logo-small.png?raw=true)
 
 # Taumux
 
